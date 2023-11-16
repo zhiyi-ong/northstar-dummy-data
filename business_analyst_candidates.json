@@ -1,1182 +1,1064 @@
-[
-    {
-        "Name": "Singaporean Candidate 836",
-        "Introduction": "An enthusiastic and professional Business Analyst with 9 years of experience.",
-        "School Attended": "International University 2",
-        "Years of Experience": 19,
-        "Background History": "Extensive experience in healthcare sector.",
-        "Skill List Technical": [
-            "Excel",
-            "Excel",
-            "Excel"
-        ],
-        "Skill List Non-Technical": [
-            "Leadership",
-            "Leadership",
-            "Communication"
-        ],
-        "Previous Companies": [
-            "Singapore Company 50",
-            "Singapore Company 76"
-        ],
-        "Data": {
-            "Communication and Engagement": {
-                "Oral Communication": 4,
-                "Written Communication": 7,
-                "Presentation and Facilitation": 6,
-                "Stakeholder Engagement": 1,
-                "Empathetic Communication": 4,
-                "TOTAL SCORE": 4
-            },
-            "Analytical and Problem-Solving Skills": {
-                "Problem Identification, Analysis and Drawing Conclusions": 1,
-                "Research": 2,
-                "Creativity and Innovation": 4,
-                "Decision Making": 4,
-                "Business Analysis Skills": 1,
-                "Requirement Management": 2,
-                "Process Improvement": 8,
-                "TOTAL SCORE": 1
-            },
-            "Project and Product Management": {
-                "Project Management Skills": 4,
-                "Risk Management": 2,
-                "Product Development": 8,
-                "Backlog Management": 1,
-                "Product Ownership": 9,
-                "Business Development": 4,
-                "TOTAL SCORE": 10
-            },
-            "Leadership and Team Management": {
-                "Team Building": 8,
-                "Change Management": 6,
-                "Coaching / Mentoring": 6,
-                "Diversity Management": 3,
-                "Thought Leadership": 3,
-                "Team Management": 10,
-                "TOTAL SCORE": 8
-            }
-        }
-    },
-    {
-        "Name": "Singaporean Candidate 175",
-        "Introduction": "An enthusiastic and professional Business Analyst with 3 years of experience.",
-        "School Attended": "University of Singapore 1",
-        "Years of Experience": 3,
-        "Background History": "Extensive experience in finance sector.",
-        "Skill List Technical": [
-            "SQL",
-            "PowerBI",
-            "Python"
-        ],
-        "Skill List Non-Technical": [
-            "Teamwork",
-            "Time Management",
-            "Teamwork"
-        ],
-        "Previous Companies": [
-            "Singapore Company 19",
-            "Singapore Company 83"
-        ],
-        "Data": {
-            "Communication and Engagement": {
-                "Oral Communication": 4,
-                "Written Communication": 3,
-                "Presentation and Facilitation": 10,
-                "Stakeholder Engagement": 5,
-                "Empathetic Communication": 6,
-                "TOTAL SCORE": 8
-            },
-            "Analytical and Problem-Solving Skills": {
-                "Problem Identification, Analysis and Drawing Conclusions": 3,
-                "Research": 9,
-                "Creativity and Innovation": 6,
-                "Decision Making": 6,
-                "Business Analysis Skills": 6,
-                "Requirement Management": 8,
-                "Process Improvement": 1,
-                "TOTAL SCORE": 3
-            },
-            "Project and Product Management": {
-                "Project Management Skills": 4,
-                "Risk Management": 6,
-                "Product Development": 5,
-                "Backlog Management": 3,
-                "Product Ownership": 4,
-                "Business Development": 4,
-                "TOTAL SCORE": 5
-            },
-            "Leadership and Team Management": {
-                "Team Building": 6,
-                "Change Management": 7,
-                "Coaching / Mentoring": 8,
-                "Diversity Management": 9,
-                "Thought Leadership": 7,
-                "Team Management": 10,
-                "TOTAL SCORE": 6
-            }
-        }
-    },
-    {
-        "Name": "Singaporean Candidate 747",
-        "Introduction": "An enthusiastic and professional Business Analyst with 4 years of experience.",
-        "School Attended": "University of Singapore 1",
-        "Years of Experience": 14,
-        "Background History": "Extensive experience in technology sector.",
-        "Skill List Technical": [
-            "Tableau",
-            "Excel",
-            "R"
-        ],
-        "Skill List Non-Technical": [
-            "Leadership",
-            "Communication",
-            "Communication"
-        ],
-        "Previous Companies": [
-            "Singapore Company 22",
-            "Singapore Company 89"
-        ],
-        "Data": {
-            "Communication and Engagement": {
-                "Oral Communication": 3,
-                "Written Communication": 3,
-                "Presentation and Facilitation": 8,
-                "Stakeholder Engagement": 5,
-                "Empathetic Communication": 8,
-                "TOTAL SCORE": 5
-            },
-            "Analytical and Problem-Solving Skills": {
-                "Problem Identification, Analysis and Drawing Conclusions": 5,
-                "Research": 9,
-                "Creativity and Innovation": 3,
-                "Decision Making": 3,
-                "Business Analysis Skills": 6,
-                "Requirement Management": 3,
-                "Process Improvement": 8,
-                "TOTAL SCORE": 8
-            },
-            "Project and Product Management": {
-                "Project Management Skills": 1,
-                "Risk Management": 5,
-                "Product Development": 7,
-                "Backlog Management": 1,
-                "Product Ownership": 5,
-                "Business Development": 5,
-                "TOTAL SCORE": 4
-            },
-            "Leadership and Team Management": {
-                "Team Building": 5,
-                "Change Management": 7,
-                "Coaching / Mentoring": 8,
-                "Diversity Management": 6,
-                "Thought Leadership": 1,
-                "Team Management": 3,
-                "TOTAL SCORE": 10
-            }
-        }
-    },
-    {
-        "Name": "International Candidate 397",
-        "Introduction": "An enthusiastic and professional Business Analyst with 14 years of experience.",
-        "School Attended": "University of Singapore 2",
-        "Years of Experience": 1,
-        "Background History": "Extensive experience in finance sector.",
-        "Skill List Technical": [
-            "SQL",
-            "Tableau",
-            "Python"
-        ],
-        "Skill List Non-Technical": [
-            "Communication",
-            "Teamwork",
-            "Communication"
-        ],
-        "Previous Companies": [
-            "Singapore Company 29",
-            "Singapore Company 14"
-        ],
-        "Data": {
-            "Communication and Engagement": {
-                "Oral Communication": 8,
-                "Written Communication": 6,
-                "Presentation and Facilitation": 3,
-                "Stakeholder Engagement": 4,
-                "Empathetic Communication": 4,
-                "TOTAL SCORE": 7
-            },
-            "Analytical and Problem-Solving Skills": {
-                "Problem Identification, Analysis and Drawing Conclusions": 6,
-                "Research": 3,
-                "Creativity and Innovation": 1,
-                "Decision Making": 9,
-                "Business Analysis Skills": 2,
-                "Requirement Management": 10,
-                "Process Improvement": 2,
-                "TOTAL SCORE": 6
-            },
-            "Project and Product Management": {
-                "Project Management Skills": 4,
-                "Risk Management": 9,
-                "Product Development": 9,
-                "Backlog Management": 7,
-                "Product Ownership": 1,
-                "Business Development": 7,
-                "TOTAL SCORE": 7
-            },
-            "Leadership and Team Management": {
-                "Team Building": 2,
-                "Change Management": 6,
-                "Coaching / Mentoring": 9,
-                "Diversity Management": 9,
-                "Thought Leadership": 9,
-                "Team Management": 3,
-                "TOTAL SCORE": 8
-            }
-        }
-    },
-    {
-        "Name": "Singaporean Candidate 242",
-        "Introduction": "An enthusiastic and professional Business Analyst with 3 years of experience.",
-        "School Attended": "University of Singapore 3",
-        "Years of Experience": 9,
-        "Background History": "Extensive experience in technology sector.",
-        "Skill List Technical": [
-            "Excel",
-            "Python",
-            "R"
-        ],
-        "Skill List Non-Technical": [
-            "Teamwork",
-            "Time Management",
-            "Leadership"
-        ],
-        "Previous Companies": [
-            "Singapore Company 92",
-            "Singapore Company 95"
-        ],
-        "Data": {
-            "Communication and Engagement": {
-                "Oral Communication": 5,
-                "Written Communication": 9,
-                "Presentation and Facilitation": 2,
-                "Stakeholder Engagement": 4,
-                "Empathetic Communication": 4,
-                "TOTAL SCORE": 4
-            },
-            "Analytical and Problem-Solving Skills": {
-                "Problem Identification, Analysis and Drawing Conclusions": 6,
-                "Research": 10,
-                "Creativity and Innovation": 4,
-                "Decision Making": 4,
-                "Business Analysis Skills": 10,
-                "Requirement Management": 9,
-                "Process Improvement": 2,
-                "TOTAL SCORE": 3
-            },
-            "Project and Product Management": {
-                "Project Management Skills": 9,
-                "Risk Management": 2,
-                "Product Development": 10,
-                "Backlog Management": 2,
-                "Product Ownership": 5,
-                "Business Development": 6,
-                "TOTAL SCORE": 10
-            },
-            "Leadership and Team Management": {
-                "Team Building": 2,
-                "Change Management": 5,
-                "Coaching / Mentoring": 3,
-                "Diversity Management": 2,
-                "Thought Leadership": 3,
-                "Team Management": 2,
-                "TOTAL SCORE": 4
-            }
-        }
-    },
-    {
-        "Name": "Singaporean Candidate 909",
-        "Introduction": "An enthusiastic and professional Business Analyst with 3 years of experience.",
-        "School Attended": "University of Singapore 3",
-        "Years of Experience": 18,
-        "Background History": "Extensive experience in retail sector.",
-        "Skill List Technical": [
-            "Python",
-            "SQL",
-            "R"
-        ],
-        "Skill List Non-Technical": [
-            "Time Management",
-            "Critical Thinking",
-            "Time Management"
-        ],
-        "Previous Companies": [
-            "Singapore Company 43",
-            "Singapore Company 96"
-        ],
-        "Data": {
-            "Communication and Engagement": {
-                "Oral Communication": 3,
-                "Written Communication": 5,
-                "Presentation and Facilitation": 7,
-                "Stakeholder Engagement": 5,
-                "Empathetic Communication": 4,
-                "TOTAL SCORE": 5
-            },
-            "Analytical and Problem-Solving Skills": {
-                "Problem Identification, Analysis and Drawing Conclusions": 10,
-                "Research": 5,
-                "Creativity and Innovation": 2,
-                "Decision Making": 8,
-                "Business Analysis Skills": 2,
-                "Requirement Management": 10,
-                "Process Improvement": 3,
-                "TOTAL SCORE": 3
-            },
-            "Project and Product Management": {
-                "Project Management Skills": 1,
-                "Risk Management": 1,
-                "Product Development": 8,
-                "Backlog Management": 3,
-                "Product Ownership": 3,
-                "Business Development": 3,
-                "TOTAL SCORE": 3
-            },
-            "Leadership and Team Management": {
-                "Team Building": 1,
-                "Change Management": 8,
-                "Coaching / Mentoring": 4,
-                "Diversity Management": 4,
-                "Thought Leadership": 1,
-                "Team Management": 4,
-                "TOTAL SCORE": 10
-            }
-        }
-    },
-    {
-        "Name": "Singaporean Candidate 865",
-        "Introduction": "An enthusiastic and professional Business Analyst with 10 years of experience.",
-        "School Attended": "University of Singapore 5",
-        "Years of Experience": 18,
-        "Background History": "Extensive experience in finance sector.",
-        "Skill List Technical": [
-            "SQL",
-            "Python",
-            "SQL"
-        ],
-        "Skill List Non-Technical": [
-            "Time Management",
-            "Critical Thinking",
-            "Teamwork"
-        ],
-        "Previous Companies": [
-            "Singapore Company 99",
-            "Singapore Company 40"
-        ],
-        "Data": {
-            "Communication and Engagement": {
-                "Oral Communication": 5,
-                "Written Communication": 6,
-                "Presentation and Facilitation": 2,
-                "Stakeholder Engagement": 4,
-                "Empathetic Communication": 2,
-                "TOTAL SCORE": 1
-            },
-            "Analytical and Problem-Solving Skills": {
-                "Problem Identification, Analysis and Drawing Conclusions": 4,
-                "Research": 10,
-                "Creativity and Innovation": 9,
-                "Decision Making": 10,
-                "Business Analysis Skills": 1,
-                "Requirement Management": 5,
-                "Process Improvement": 10,
-                "TOTAL SCORE": 3
-            },
-            "Project and Product Management": {
-                "Project Management Skills": 2,
-                "Risk Management": 10,
-                "Product Development": 10,
-                "Backlog Management": 9,
-                "Product Ownership": 3,
-                "Business Development": 1,
-                "TOTAL SCORE": 9
-            },
-            "Leadership and Team Management": {
-                "Team Building": 7,
-                "Change Management": 8,
-                "Coaching / Mentoring": 9,
-                "Diversity Management": 3,
-                "Thought Leadership": 9,
-                "Team Management": 4,
-                "TOTAL SCORE": 1
-            }
-        }
-    },
-    {
-        "Name": "Singaporean Candidate 134",
-        "Introduction": "An enthusiastic and professional Business Analyst with 5 years of experience.",
-        "School Attended": "University of Singapore 2",
-        "Years of Experience": 13,
-        "Background History": "Extensive experience in education sector.",
-        "Skill List Technical": [
-            "Tableau",
-            "PowerBI",
-            "PowerBI"
-        ],
-        "Skill List Non-Technical": [
-            "Teamwork",
-            "Time Management",
-            "Leadership"
-        ],
-        "Previous Companies": [
-            "Singapore Company 99",
-            "Singapore Company 89"
-        ],
-        "Data": {
-            "Communication and Engagement": {
-                "Oral Communication": 4,
-                "Written Communication": 5,
-                "Presentation and Facilitation": 5,
-                "Stakeholder Engagement": 3,
-                "Empathetic Communication": 10,
-                "TOTAL SCORE": 10
-            },
-            "Analytical and Problem-Solving Skills": {
-                "Problem Identification, Analysis and Drawing Conclusions": 8,
-                "Research": 1,
-                "Creativity and Innovation": 7,
-                "Decision Making": 8,
-                "Business Analysis Skills": 2,
-                "Requirement Management": 9,
-                "Process Improvement": 3,
-                "TOTAL SCORE": 1
-            },
-            "Project and Product Management": {
-                "Project Management Skills": 5,
-                "Risk Management": 9,
-                "Product Development": 6,
-                "Backlog Management": 5,
-                "Product Ownership": 4,
-                "Business Development": 10,
-                "TOTAL SCORE": 2
-            },
-            "Leadership and Team Management": {
-                "Team Building": 3,
-                "Change Management": 2,
-                "Coaching / Mentoring": 4,
-                "Diversity Management": 4,
-                "Thought Leadership": 10,
-                "Team Management": 4,
-                "TOTAL SCORE": 10
-            }
-        }
-    },
-    {
-        "Name": "Singaporean Candidate 166",
-        "Introduction": "An enthusiastic and professional Business Analyst with 9 years of experience.",
-        "School Attended": "University of Singapore 1",
-        "Years of Experience": 13,
-        "Background History": "Extensive experience in finance sector.",
-        "Skill List Technical": [
-            "PowerBI",
-            "SQL",
-            "R"
-        ],
-        "Skill List Non-Technical": [
-            "Teamwork",
-            "Time Management",
-            "Teamwork"
-        ],
-        "Previous Companies": [
-            "Singapore Company 56",
-            "Singapore Company 58"
-        ],
-        "Data": {
-            "Communication and Engagement": {
-                "Oral Communication": 3,
-                "Written Communication": 5,
-                "Presentation and Facilitation": 5,
-                "Stakeholder Engagement": 9,
-                "Empathetic Communication": 8,
-                "TOTAL SCORE": 3
-            },
-            "Analytical and Problem-Solving Skills": {
-                "Problem Identification, Analysis and Drawing Conclusions": 3,
-                "Research": 7,
-                "Creativity and Innovation": 7,
-                "Decision Making": 6,
-                "Business Analysis Skills": 2,
-                "Requirement Management": 1,
-                "Process Improvement": 1,
-                "TOTAL SCORE": 3
-            },
-            "Project and Product Management": {
-                "Project Management Skills": 6,
-                "Risk Management": 8,
-                "Product Development": 7,
-                "Backlog Management": 9,
-                "Product Ownership": 6,
-                "Business Development": 10,
-                "TOTAL SCORE": 8
-            },
-            "Leadership and Team Management": {
-                "Team Building": 9,
-                "Change Management": 5,
-                "Coaching / Mentoring": 3,
-                "Diversity Management": 3,
-                "Thought Leadership": 3,
-                "Team Management": 9,
-                "TOTAL SCORE": 4
-            }
-        }
-    },
-    {
-        "Name": "Singaporean Candidate 307",
-        "Introduction": "An enthusiastic and professional Business Analyst with 1 years of experience.",
-        "School Attended": "University of Singapore 2",
-        "Years of Experience": 5,
-        "Background History": "Extensive experience in healthcare sector.",
-        "Skill List Technical": [
-            "Excel",
-            "PowerBI",
-            "PowerBI"
-        ],
-        "Skill List Non-Technical": [
-            "Teamwork",
-            "Teamwork",
-            "Critical Thinking"
-        ],
-        "Previous Companies": [
-            "Singapore Company 75",
-            "Singapore Company 56"
-        ],
-        "Data": {
-            "Communication and Engagement": {
-                "Oral Communication": 5,
-                "Written Communication": 6,
-                "Presentation and Facilitation": 5,
-                "Stakeholder Engagement": 4,
-                "Empathetic Communication": 7,
-                "TOTAL SCORE": 9
-            },
-            "Analytical and Problem-Solving Skills": {
-                "Problem Identification, Analysis and Drawing Conclusions": 7,
-                "Research": 5,
-                "Creativity and Innovation": 3,
-                "Decision Making": 10,
-                "Business Analysis Skills": 10,
-                "Requirement Management": 1,
-                "Process Improvement": 9,
-                "TOTAL SCORE": 4
-            },
-            "Project and Product Management": {
-                "Project Management Skills": 5,
-                "Risk Management": 9,
-                "Product Development": 4,
-                "Backlog Management": 3,
-                "Product Ownership": 3,
-                "Business Development": 5,
-                "TOTAL SCORE": 5
-            },
-            "Leadership and Team Management": {
-                "Team Building": 5,
-                "Change Management": 3,
-                "Coaching / Mentoring": 9,
-                "Diversity Management": 4,
-                "Thought Leadership": 10,
-                "Team Management": 3,
-                "TOTAL SCORE": 7
-            }
-        }
-    },
-    {
-        "Name": "Singaporean Candidate 237",
-        "Introduction": "An enthusiastic and professional Business Analyst with 14 years of experience.",
-        "School Attended": "University of Singapore 5",
-        "Years of Experience": 11,
-        "Background History": "Extensive experience in retail sector.",
-        "Skill List Technical": [
-            "Excel",
-            "Python",
-            "R"
-        ],
-        "Skill List Non-Technical": [
-            "Teamwork",
-            "Critical Thinking",
-            "Teamwork"
-        ],
-        "Previous Companies": [
-            "Singapore Company 54",
-            "Singapore Company 56"
-        ],
-        "Data": {
-            "Communication and Engagement": {
-                "Oral Communication": 3,
-                "Written Communication": 9,
-                "Presentation and Facilitation": 1,
-                "Stakeholder Engagement": 4,
-                "Empathetic Communication": 8,
-                "TOTAL SCORE": 2
-            },
-            "Analytical and Problem-Solving Skills": {
-                "Problem Identification, Analysis and Drawing Conclusions": 1,
-                "Research": 3,
-                "Creativity and Innovation": 7,
-                "Decision Making": 8,
-                "Business Analysis Skills": 4,
-                "Requirement Management": 3,
-                "Process Improvement": 9,
-                "TOTAL SCORE": 1
-            },
-            "Project and Product Management": {
-                "Project Management Skills": 7,
-                "Risk Management": 8,
-                "Product Development": 5,
-                "Backlog Management": 6,
-                "Product Ownership": 5,
-                "Business Development": 1,
-                "TOTAL SCORE": 2
-            },
-            "Leadership and Team Management": {
-                "Team Building": 9,
-                "Change Management": 8,
-                "Coaching / Mentoring": 7,
-                "Diversity Management": 5,
-                "Thought Leadership": 2,
-                "Team Management": 10,
-                "TOTAL SCORE": 3
-            }
-        }
-    },
-    {
-        "Name": "Singaporean Candidate 552",
-        "Introduction": "An enthusiastic and professional Business Analyst with 12 years of experience.",
-        "School Attended": "University of Singapore 4",
-        "Years of Experience": 10,
-        "Background History": "Extensive experience in finance sector.",
-        "Skill List Technical": [
-            "Python",
-            "R",
-            "Python"
-        ],
-        "Skill List Non-Technical": [
-            "Critical Thinking",
-            "Leadership",
-            "Time Management"
-        ],
-        "Previous Companies": [
-            "Singapore Company 60",
-            "Singapore Company 20"
-        ],
-        "Data": {
-            "Communication and Engagement": {
-                "Oral Communication": 2,
-                "Written Communication": 1,
-                "Presentation and Facilitation": 1,
-                "Stakeholder Engagement": 4,
-                "Empathetic Communication": 10,
-                "TOTAL SCORE": 2
-            },
-            "Analytical and Problem-Solving Skills": {
-                "Problem Identification, Analysis and Drawing Conclusions": 5,
-                "Research": 9,
-                "Creativity and Innovation": 7,
-                "Decision Making": 3,
-                "Business Analysis Skills": 2,
-                "Requirement Management": 2,
-                "Process Improvement": 3,
-                "TOTAL SCORE": 1
-            },
-            "Project and Product Management": {
-                "Project Management Skills": 4,
-                "Risk Management": 1,
-                "Product Development": 1,
-                "Backlog Management": 1,
-                "Product Ownership": 4,
-                "Business Development": 1,
-                "TOTAL SCORE": 2
-            },
-            "Leadership and Team Management": {
-                "Team Building": 6,
-                "Change Management": 5,
-                "Coaching / Mentoring": 5,
-                "Diversity Management": 1,
-                "Thought Leadership": 10,
-                "Team Management": 10,
-                "TOTAL SCORE": 1
-            }
-        }
-    },
-    {
-        "Name": "Singaporean Candidate 41",
-        "Introduction": "An enthusiastic and professional Business Analyst with 7 years of experience.",
-        "School Attended": "University of Singapore 2",
-        "Years of Experience": 10,
-        "Background History": "Extensive experience in healthcare sector.",
-        "Skill List Technical": [
-            "Python",
-            "Excel",
-            "Excel"
-        ],
-        "Skill List Non-Technical": [
-            "Critical Thinking",
-            "Teamwork",
-            "Critical Thinking"
-        ],
-        "Previous Companies": [
-            "Singapore Company 11",
-            "Singapore Company 38"
-        ],
-        "Data": {
+{
+    "candidates": [
+        {
+            "Candidate Name": "Li Ng",
+            "Introduction": "A highly skilled and versatile business analyst with a proven track record.",
+            "School attended": "Singapore Management University",
+            "Years of Experience": 5,
+            "Background History": "Has worked as a data analyst in the retail industry.",
+            "Skill list Technical": [
+                "Python",
+                "Tableau",
+                "Excel"
+            ],
+            "Skill list non-technical": [
+                "Problem-solving",
+                "Adaptability",
+                "Communication"
+            ],
+            "Previous Companies": [
+                "DBS Bank",
+                "Sea Limited"
+            ],
             "Communication and Engagement": {
                 "Oral Communication": 1,
-                "Written Communication": 6,
-                "Presentation and Facilitation": 5,
-                "Stakeholder Engagement": 6,
-                "Empathetic Communication": 2,
-                "TOTAL SCORE": 3
+                "Written Communication": 5,
+                "Presentation and Facilitation": 2,
+                "Stakeholder Engagement": 5,
+                "Empathetic Communication": 1,
+                "TOTAL SCORE": 8
             },
             "Analytical and Problem-Solving Skills": {
-                "Problem Identification, Analysis and Drawing Conclusions": 5,
-                "Research": 3,
-                "Creativity and Innovation": 5,
-                "Decision Making": 6,
-                "Business Analysis Skills": 1,
-                "Requirement Management": 3,
-                "Process Improvement": 1,
-                "TOTAL SCORE": 3
-            },
-            "Project and Product Management": {
-                "Project Management Skills": 10,
-                "Risk Management": 8,
-                "Product Development": 10,
-                "Backlog Management": 7,
-                "Product Ownership": 7,
-                "Business Development": 7,
-                "TOTAL SCORE": 9
-            },
-            "Leadership and Team Management": {
-                "Team Building": 9,
-                "Change Management": 9,
-                "Coaching / Mentoring": 9,
-                "Diversity Management": 7,
-                "Thought Leadership": 1,
-                "Team Management": 4,
-                "TOTAL SCORE": 7
-            }
-        }
-    },
-    {
-        "Name": "Singaporean Candidate 567",
-        "Introduction": "An enthusiastic and professional Business Analyst with 8 years of experience.",
-        "School Attended": "University of Singapore 5",
-        "Years of Experience": 14,
-        "Background History": "Extensive experience in education sector.",
-        "Skill List Technical": [
-            "Python",
-            "R",
-            "R"
-        ],
-        "Skill List Non-Technical": [
-            "Communication",
-            "Communication",
-            "Teamwork"
-        ],
-        "Previous Companies": [
-            "Singapore Company 59",
-            "Singapore Company 40"
-        ],
-        "Data": {
-            "Communication and Engagement": {
-                "Oral Communication": 8,
+                "Oral Communication": 7,
                 "Written Communication": 10,
-                "Presentation and Facilitation": 9,
-                "Stakeholder Engagement": 9,
-                "Empathetic Communication": 10,
-                "TOTAL SCORE": 7
-            },
-            "Analytical and Problem-Solving Skills": {
-                "Problem Identification, Analysis and Drawing Conclusions": 3,
-                "Research": 8,
-                "Creativity and Innovation": 3,
-                "Decision Making": 10,
-                "Business Analysis Skills": 5,
-                "Requirement Management": 5,
-                "Process Improvement": 9,
-                "TOTAL SCORE": 3
+                "Presentation and Facilitation": 3,
+                "Stakeholder Engagement": 10,
+                "Empathetic Communication": 8,
+                "TOTAL SCORE": 5
             },
             "Project and Product Management": {
-                "Project Management Skills": 9,
-                "Risk Management": 7,
-                "Product Development": 9,
-                "Backlog Management": 10,
-                "Product Ownership": 1,
-                "Business Development": 3,
-                "TOTAL SCORE": 9
+                "Oral Communication": 7,
+                "Written Communication": 9,
+                "Presentation and Facilitation": 10,
+                "Stakeholder Engagement": 2,
+                "Empathetic Communication": 7,
+                "TOTAL SCORE": 8
             },
             "Leadership and Team Management": {
-                "Team Building": 7,
-                "Change Management": 1,
-                "Coaching / Mentoring": 10,
-                "Diversity Management": 2,
-                "Thought Leadership": 6,
-                "Team Management": 6,
-                "TOTAL SCORE": 4
+                "Oral Communication": 4,
+                "Written Communication": 4,
+                "Presentation and Facilitation": 4,
+                "Stakeholder Engagement": 6,
+                "Empathetic Communication": 5,
+                "TOTAL SCORE": 9
             }
-        }
-    },
-    {
-        "Name": "Singaporean Candidate 614",
-        "Introduction": "An enthusiastic and professional Business Analyst with 11 years of experience.",
-        "School Attended": "International University 2",
-        "Years of Experience": 17,
-        "Background History": "Extensive experience in finance sector.",
-        "Skill List Technical": [
-            "PowerBI",
-            "Python",
-            "R"
-        ],
-        "Skill List Non-Technical": [
-            "Teamwork",
-            "Time Management",
-            "Time Management"
-        ],
-        "Previous Companies": [
-            "Singapore Company 64",
-            "Singapore Company 48"
-        ],
-        "Data": {
+        },
+        {
+            "Candidate Name": "Xin Wong",
+            "Introduction": "A highly skilled and versatile business analyst with a proven track record.",
+            "School attended": "Singapore University of Technology and Design",
+            "Years of Experience": 15,
+            "Background History": "Has worked as a operations analyst in the transportation industry.",
+            "Skill list Technical": [
+                "Data Mining",
+                "Tableau",
+                "R"
+            ],
+            "Skill list non-technical": [
+                "Leadership",
+                "Teamwork",
+                "Problem-solving"
+            ],
+            "Previous Companies": [
+                "DBS Bank",
+                "CapitaLand"
+            ],
             "Communication and Engagement": {
-                "Oral Communication": 2,
-                "Written Communication": 3,
-                "Presentation and Facilitation": 1,
+                "Oral Communication": 1,
+                "Written Communication": 1,
+                "Presentation and Facilitation": 9,
                 "Stakeholder Engagement": 3,
+                "Empathetic Communication": 8,
+                "TOTAL SCORE": 9
+            },
+            "Analytical and Problem-Solving Skills": {
+                "Oral Communication": 5,
+                "Written Communication": 6,
+                "Presentation and Facilitation": 6,
+                "Stakeholder Engagement": 1,
+                "Empathetic Communication": 2,
+                "TOTAL SCORE": 1
+            },
+            "Project and Product Management": {
+                "Oral Communication": 1,
+                "Written Communication": 6,
+                "Presentation and Facilitation": 6,
+                "Stakeholder Engagement": 7,
                 "Empathetic Communication": 1,
                 "TOTAL SCORE": 7
             },
-            "Analytical and Problem-Solving Skills": {
-                "Problem Identification, Analysis and Drawing Conclusions": 6,
-                "Research": 5,
-                "Creativity and Innovation": 2,
-                "Decision Making": 7,
-                "Business Analysis Skills": 9,
-                "Requirement Management": 2,
-                "Process Improvement": 8,
+            "Leadership and Team Management": {
+                "Oral Communication": 6,
+                "Written Communication": 7,
+                "Presentation and Facilitation": 4,
+                "Stakeholder Engagement": 3,
+                "Empathetic Communication": 5,
+                "TOTAL SCORE": 3
+            }
+        },
+        {
+            "Candidate Name": "Jia Tan",
+            "Introduction": "A highly skilled and versatile business analyst with a proven track record.",
+            "School attended": "Singapore University of Technology and Design",
+            "Years of Experience": 2,
+            "Background History": "Has worked as a operations analyst in the manufacturing industry.",
+            "Skill list Technical": [
+                "Machine Learning",
+                "R",
+                "Python"
+            ],
+            "Skill list non-technical": [
+                "Adaptability",
+                "Problem-solving",
+                "Teamwork"
+            ],
+            "Previous Companies": [
+                "CapitaLand",
+                "Wilmar International"
+            ],
+            "Communication and Engagement": {
+                "Oral Communication": 5,
+                "Written Communication": 9,
+                "Presentation and Facilitation": 1,
+                "Stakeholder Engagement": 2,
+                "Empathetic Communication": 3,
                 "TOTAL SCORE": 8
             },
-            "Project and Product Management": {
-                "Project Management Skills": 9,
-                "Risk Management": 1,
-                "Product Development": 8,
-                "Backlog Management": 8,
-                "Product Ownership": 9,
-                "Business Development": 1,
-                "TOTAL SCORE": 6
-            },
-            "Leadership and Team Management": {
-                "Team Building": 3,
-                "Change Management": 5,
-                "Coaching / Mentoring": 1,
-                "Diversity Management": 10,
-                "Thought Leadership": 8,
-                "Team Management": 2,
-                "TOTAL SCORE": 4
-            }
-        }
-    },
-    {
-        "Name": "Singaporean Candidate 922",
-        "Introduction": "An enthusiastic and professional Business Analyst with 2 years of experience.",
-        "School Attended": "University of Singapore 4",
-        "Years of Experience": 8,
-        "Background History": "Extensive experience in retail sector.",
-        "Skill List Technical": [
-            "Python",
-            "Python",
-            "Tableau"
-        ],
-        "Skill List Non-Technical": [
-            "Time Management",
-            "Communication",
-            "Time Management"
-        ],
-        "Previous Companies": [
-            "Singapore Company 99",
-            "Singapore Company 51"
-        ],
-        "Data": {
-            "Communication and Engagement": {
-                "Oral Communication": 1,
-                "Written Communication": 3,
-                "Presentation and Facilitation": 9,
+            "Analytical and Problem-Solving Skills": {
+                "Oral Communication": 3,
+                "Written Communication": 4,
+                "Presentation and Facilitation": 7,
                 "Stakeholder Engagement": 4,
-                "Empathetic Communication": 6,
-                "TOTAL SCORE": 6
-            },
-            "Analytical and Problem-Solving Skills": {
-                "Problem Identification, Analysis and Drawing Conclusions": 1,
-                "Research": 3,
-                "Creativity and Innovation": 10,
-                "Decision Making": 7,
-                "Business Analysis Skills": 2,
-                "Requirement Management": 9,
-                "Process Improvement": 1,
-                "TOTAL SCORE": 6
+                "Empathetic Communication": 3,
+                "TOTAL SCORE": 3
             },
             "Project and Product Management": {
-                "Project Management Skills": 8,
-                "Risk Management": 9,
-                "Product Development": 8,
-                "Backlog Management": 9,
-                "Product Ownership": 6,
-                "Business Development": 5,
-                "TOTAL SCORE": 7
-            },
-            "Leadership and Team Management": {
-                "Team Building": 8,
-                "Change Management": 10,
-                "Coaching / Mentoring": 2,
-                "Diversity Management": 4,
-                "Thought Leadership": 5,
-                "Team Management": 9,
-                "TOTAL SCORE": 9
-            }
-        }
-    },
-    {
-        "Name": "Singaporean Candidate 553",
-        "Introduction": "An enthusiastic and professional Business Analyst with 5 years of experience.",
-        "School Attended": "University of Singapore 4",
-        "Years of Experience": 10,
-        "Background History": "Extensive experience in finance sector.",
-        "Skill List Technical": [
-            "Python",
-            "R",
-            "PowerBI"
-        ],
-        "Skill List Non-Technical": [
-            "Teamwork",
-            "Leadership",
-            "Communication"
-        ],
-        "Previous Companies": [
-            "Singapore Company 10",
-            "Singapore Company 12"
-        ],
-        "Data": {
-            "Communication and Engagement": {
-                "Oral Communication": 6,
-                "Written Communication": 3,
-                "Presentation and Facilitation": 4,
-                "Stakeholder Engagement": 2,
-                "Empathetic Communication": 9,
-                "TOTAL SCORE": 6
-            },
-            "Analytical and Problem-Solving Skills": {
-                "Problem Identification, Analysis and Drawing Conclusions": 3,
-                "Research": 4,
-                "Creativity and Innovation": 7,
-                "Decision Making": 4,
-                "Business Analysis Skills": 7,
-                "Requirement Management": 1,
-                "Process Improvement": 5,
-                "TOTAL SCORE": 7
-            },
-            "Project and Product Management": {
-                "Project Management Skills": 2,
-                "Risk Management": 4,
-                "Product Development": 4,
-                "Backlog Management": 8,
-                "Product Ownership": 10,
-                "Business Development": 8,
+                "Oral Communication": 4,
+                "Written Communication": 1,
+                "Presentation and Facilitation": 1,
+                "Stakeholder Engagement": 10,
+                "Empathetic Communication": 7,
                 "TOTAL SCORE": 1
             },
             "Leadership and Team Management": {
-                "Team Building": 8,
-                "Change Management": 7,
-                "Coaching / Mentoring": 2,
-                "Diversity Management": 8,
-                "Thought Leadership": 7,
-                "Team Management": 5,
+                "Oral Communication": 7,
+                "Written Communication": 2,
+                "Presentation and Facilitation": 10,
+                "Stakeholder Engagement": 5,
+                "Empathetic Communication": 6,
+                "TOTAL SCORE": 3
+            }
+        },
+        {
+            "Candidate Name": "Jia Goh",
+            "Introduction": "A highly skilled and versatile business analyst with a proven track record.",
+            "School attended": "Singapore University of Technology and Design",
+            "Years of Experience": 13,
+            "Background History": "Has worked as a data analyst in the banking industry.",
+            "Skill list Technical": [
+                "Excel",
+                "SQL",
+                "R"
+            ],
+            "Skill list non-technical": [
+                "Creativity",
+                "Adaptability",
+                "Problem-solving"
+            ],
+            "Previous Companies": [
+                "DBS Bank",
+                "Sea Limited"
+            ],
+            "Communication and Engagement": {
+                "Oral Communication": 1,
+                "Written Communication": 6,
+                "Presentation and Facilitation": 6,
+                "Stakeholder Engagement": 2,
+                "Empathetic Communication": 9,
+                "TOTAL SCORE": 5
+            },
+            "Analytical and Problem-Solving Skills": {
+                "Oral Communication": 4,
+                "Written Communication": 4,
+                "Presentation and Facilitation": 5,
+                "Stakeholder Engagement": 8,
+                "Empathetic Communication": 9,
+                "TOTAL SCORE": 10
+            },
+            "Project and Product Management": {
+                "Oral Communication": 5,
+                "Written Communication": 9,
+                "Presentation and Facilitation": 6,
+                "Stakeholder Engagement": 2,
+                "Empathetic Communication": 1,
+                "TOTAL SCORE": 4
+            },
+            "Leadership and Team Management": {
+                "Oral Communication": 9,
+                "Written Communication": 9,
+                "Presentation and Facilitation": 2,
+                "Stakeholder Engagement": 10,
+                "Empathetic Communication": 7,
                 "TOTAL SCORE": 6
             }
-        }
-    },
-    {
-        "Name": "Singaporean Candidate 614",
-        "Introduction": "An enthusiastic and professional Business Analyst with 4 years of experience.",
-        "School Attended": "University of Singapore 5",
-        "Years of Experience": 3,
-        "Background History": "Extensive experience in retail sector.",
-        "Skill List Technical": [
-            "PowerBI",
-            "Tableau",
-            "Excel"
-        ],
-        "Skill List Non-Technical": [
-            "Leadership",
-            "Critical Thinking",
-            "Leadership"
-        ],
-        "Previous Companies": [
-            "Singapore Company 10",
-            "Singapore Company 35"
-        ],
-        "Data": {
+        },
+        {
+            "Candidate Name": "Min Ong",
+            "Introduction": "A highly skilled and versatile business analyst with a proven track record.",
+            "School attended": "Nanyang Technological University",
+            "Years of Experience": 1,
+            "Background History": "Has worked as a financial analyst in the retail industry.",
+            "Skill list Technical": [
+                "Power BI",
+                "Excel",
+                "R"
+            ],
+            "Skill list non-technical": [
+                "Creativity",
+                "Communication",
+                "Leadership"
+            ],
+            "Previous Companies": [
+                "Wilmar International",
+                "Sea Limited"
+            ],
             "Communication and Engagement": {
-                "Oral Communication": 4,
-                "Written Communication": 3,
+                "Oral Communication": 2,
+                "Written Communication": 6,
                 "Presentation and Facilitation": 1,
+                "Stakeholder Engagement": 3,
+                "Empathetic Communication": 2,
+                "TOTAL SCORE": 6
+            },
+            "Analytical and Problem-Solving Skills": {
+                "Oral Communication": 6,
+                "Written Communication": 7,
+                "Presentation and Facilitation": 7,
+                "Stakeholder Engagement": 6,
+                "Empathetic Communication": 9,
+                "TOTAL SCORE": 7
+            },
+            "Project and Product Management": {
+                "Oral Communication": 6,
+                "Written Communication": 9,
+                "Presentation and Facilitation": 9,
+                "Stakeholder Engagement": 4,
+                "Empathetic Communication": 8,
+                "TOTAL SCORE": 3
+            },
+            "Leadership and Team Management": {
+                "Oral Communication": 8,
+                "Written Communication": 9,
+                "Presentation and Facilitation": 7,
+                "Stakeholder Engagement": 3,
+                "Empathetic Communication": 3,
+                "TOTAL SCORE": 4
+            }
+        },
+        {
+            "Candidate Name": "Min Lee",
+            "Introduction": "A highly skilled and versatile business analyst with a proven track record.",
+            "School attended": "National University of Singapore",
+            "Years of Experience": 14,
+            "Background History": "Has worked as a risk analyst in the retail industry.",
+            "Skill list Technical": [
+                "Tableau",
+                "R",
+                "Data Mining"
+            ],
+            "Skill list non-technical": [
+                "Communication",
+                "Teamwork",
+                "Leadership"
+            ],
+            "Previous Companies": [
+                "CapitaLand",
+                "Singtel"
+            ],
+            "Communication and Engagement": {
+                "Oral Communication": 3,
+                "Written Communication": 7,
+                "Presentation and Facilitation": 5,
+                "Stakeholder Engagement": 8,
+                "Empathetic Communication": 1,
+                "TOTAL SCORE": 8
+            },
+            "Analytical and Problem-Solving Skills": {
+                "Oral Communication": 5,
+                "Written Communication": 9,
+                "Presentation and Facilitation": 1,
+                "Stakeholder Engagement": 10,
+                "Empathetic Communication": 10,
+                "TOTAL SCORE": 8
+            },
+            "Project and Product Management": {
+                "Oral Communication": 1,
+                "Written Communication": 9,
+                "Presentation and Facilitation": 9,
+                "Stakeholder Engagement": 6,
+                "Empathetic Communication": 2,
+                "TOTAL SCORE": 8
+            },
+            "Leadership and Team Management": {
+                "Oral Communication": 5,
+                "Written Communication": 1,
+                "Presentation and Facilitation": 4,
+                "Stakeholder Engagement": 8,
+                "Empathetic Communication": 4,
+                "TOTAL SCORE": 3
+            }
+        },
+        {
+            "Candidate Name": "Li Ng",
+            "Introduction": "A highly skilled and versatile business analyst with a proven track record.",
+            "School attended": "James Cook University Singapore",
+            "Years of Experience": 2,
+            "Background History": "Has worked as a business intelligence analyst in the banking industry.",
+            "Skill list Technical": [
+                "SQL",
+                "Data Mining",
+                "Python"
+            ],
+            "Skill list non-technical": [
+                "Leadership",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "Previous Companies": [
+                "Sea Limited",
+                "CapitaLand"
+            ],
+            "Communication and Engagement": {
+                "Oral Communication": 3,
+                "Written Communication": 5,
+                "Presentation and Facilitation": 3,
+                "Stakeholder Engagement": 3,
+                "Empathetic Communication": 2,
+                "TOTAL SCORE": 2
+            },
+            "Analytical and Problem-Solving Skills": {
+                "Oral Communication": 5,
+                "Written Communication": 7,
+                "Presentation and Facilitation": 7,
+                "Stakeholder Engagement": 3,
+                "Empathetic Communication": 7,
+                "TOTAL SCORE": 6
+            },
+            "Project and Product Management": {
+                "Oral Communication": 6,
+                "Written Communication": 6,
+                "Presentation and Facilitation": 4,
+                "Stakeholder Engagement": 8,
+                "Empathetic Communication": 6,
+                "TOTAL SCORE": 2
+            },
+            "Leadership and Team Management": {
+                "Oral Communication": 5,
+                "Written Communication": 6,
+                "Presentation and Facilitation": 10,
+                "Stakeholder Engagement": 1,
+                "Empathetic Communication": 3,
+                "TOTAL SCORE": 10
+            }
+        },
+        {
+            "Candidate Name": "Min Tan",
+            "Introduction": "A highly skilled and versatile business analyst with a proven track record.",
+            "School attended": "James Cook University Singapore",
+            "Years of Experience": 12,
+            "Background History": "Has worked as a risk analyst in the retail industry.",
+            "Skill list Technical": [
+                "Excel",
+                "Data Mining",
+                "Python"
+            ],
+            "Skill list non-technical": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "Previous Companies": [
+                "Singtel",
+                "Wilmar International"
+            ],
+            "Communication and Engagement": {
+                "Oral Communication": 1,
+                "Written Communication": 3,
+                "Presentation and Facilitation": 3,
+                "Stakeholder Engagement": 1,
+                "Empathetic Communication": 4,
+                "TOTAL SCORE": 9
+            },
+            "Analytical and Problem-Solving Skills": {
+                "Oral Communication": 4,
+                "Written Communication": 10,
+                "Presentation and Facilitation": 2,
                 "Stakeholder Engagement": 9,
+                "Empathetic Communication": 6,
+                "TOTAL SCORE": 2
+            },
+            "Project and Product Management": {
+                "Oral Communication": 2,
+                "Written Communication": 4,
+                "Presentation and Facilitation": 2,
+                "Stakeholder Engagement": 8,
+                "Empathetic Communication": 3,
+                "TOTAL SCORE": 7
+            },
+            "Leadership and Team Management": {
+                "Oral Communication": 4,
+                "Written Communication": 5,
+                "Presentation and Facilitation": 1,
+                "Stakeholder Engagement": 3,
+                "Empathetic Communication": 1,
+                "TOTAL SCORE": 8
+            }
+        },
+        {
+            "Candidate Name": "Min Teo",
+            "Introduction": "A highly skilled and versatile business analyst with a proven track record.",
+            "School attended": "Nanyang Technological University",
+            "Years of Experience": 13,
+            "Background History": "Has worked as a operations analyst in the banking industry.",
+            "Skill list Technical": [
+                "Data Mining",
+                "Python",
+                "R"
+            ],
+            "Skill list non-technical": [
+                "Communication",
+                "Adaptability",
+                "Creativity"
+            ],
+            "Previous Companies": [
+                "Sea Limited",
+                "Flex"
+            ],
+            "Communication and Engagement": {
+                "Oral Communication": 2,
+                "Written Communication": 10,
+                "Presentation and Facilitation": 1,
+                "Stakeholder Engagement": 10,
+                "Empathetic Communication": 6,
+                "TOTAL SCORE": 7
+            },
+            "Analytical and Problem-Solving Skills": {
+                "Oral Communication": 7,
+                "Written Communication": 7,
+                "Presentation and Facilitation": 7,
+                "Stakeholder Engagement": 3,
+                "Empathetic Communication": 6,
+                "TOTAL SCORE": 10
+            },
+            "Project and Product Management": {
+                "Oral Communication": 7,
+                "Written Communication": 5,
+                "Presentation and Facilitation": 1,
+                "Stakeholder Engagement": 5,
+                "Empathetic Communication": 2,
+                "TOTAL SCORE": 10
+            },
+            "Leadership and Team Management": {
+                "Oral Communication": 3,
+                "Written Communication": 1,
+                "Presentation and Facilitation": 6,
+                "Stakeholder Engagement": 10,
+                "Empathetic Communication": 5,
+                "TOTAL SCORE": 7
+            }
+        },
+        {
+            "Candidate Name": "Kai Koh",
+            "Introduction": "A highly skilled and versatile business analyst with a proven track record.",
+            "School attended": "National University of Singapore",
+            "Years of Experience": 3,
+            "Background History": "Has worked as a market research analyst in the transportation industry.",
+            "Skill list Technical": [
+                "SQL",
+                "Machine Learning",
+                "Power BI"
+            ],
+            "Skill list non-technical": [
+                "Problem-solving",
+                "Teamwork",
+                "Creativity"
+            ],
+            "Previous Companies": [
+                "CapitaLand",
+                "DBS Bank"
+            ],
+            "Communication and Engagement": {
+                "Oral Communication": 8,
+                "Written Communication": 6,
+                "Presentation and Facilitation": 10,
+                "Stakeholder Engagement": 9,
+                "Empathetic Communication": 2,
+                "TOTAL SCORE": 8
+            },
+            "Analytical and Problem-Solving Skills": {
+                "Oral Communication": 10,
+                "Written Communication": 2,
+                "Presentation and Facilitation": 8,
+                "Stakeholder Engagement": 9,
+                "Empathetic Communication": 1,
+                "TOTAL SCORE": 3
+            },
+            "Project and Product Management": {
+                "Oral Communication": 4,
+                "Written Communication": 2,
+                "Presentation and Facilitation": 7,
+                "Stakeholder Engagement": 5,
+                "Empathetic Communication": 10,
+                "TOTAL SCORE": 7
+            },
+            "Leadership and Team Management": {
+                "Oral Communication": 5,
+                "Written Communication": 6,
+                "Presentation and Facilitation": 7,
+                "Stakeholder Engagement": 1,
+                "Empathetic Communication": 8,
+                "TOTAL SCORE": 6
+            }
+        },
+        {
+            "Candidate Name": "Yan Lee",
+            "Introduction": "A highly skilled and versatile business analyst with a proven track record.",
+            "School attended": "Singapore University of Technology and Design",
+            "Years of Experience": 10,
+            "Background History": "Has worked as a market research analyst in the technology industry.",
+            "Skill list Technical": [
+                "Machine Learning",
+                "R",
+                "Python"
+            ],
+            "Skill list non-technical": [
+                "Problem-solving",
+                "Creativity",
+                "Communication"
+            ],
+            "Previous Companies": [
+                "Sea Limited",
+                "DBS Bank"
+            ],
+            "Communication and Engagement": {
+                "Oral Communication": 2,
+                "Written Communication": 6,
+                "Presentation and Facilitation": 9,
+                "Stakeholder Engagement": 10,
+                "Empathetic Communication": 10,
+                "TOTAL SCORE": 5
+            },
+            "Analytical and Problem-Solving Skills": {
+                "Oral Communication": 2,
+                "Written Communication": 3,
+                "Presentation and Facilitation": 8,
+                "Stakeholder Engagement": 2,
+                "Empathetic Communication": 9,
+                "TOTAL SCORE": 5
+            },
+            "Project and Product Management": {
+                "Oral Communication": 2,
+                "Written Communication": 6,
+                "Presentation and Facilitation": 3,
+                "Stakeholder Engagement": 3,
+                "Empathetic Communication": 4,
+                "TOTAL SCORE": 10
+            },
+            "Leadership and Team Management": {
+                "Oral Communication": 3,
+                "Written Communication": 10,
+                "Presentation and Facilitation": 4,
+                "Stakeholder Engagement": 7,
+                "Empathetic Communication": 1,
+                "TOTAL SCORE": 2
+            }
+        },
+        {
+            "Candidate Name": "Feng Ng",
+            "Introduction": "A highly skilled and versatile business analyst with a proven track record.",
+            "School attended": "Singapore Institute of Technology",
+            "Years of Experience": 13,
+            "Background History": "Has worked as a market research analyst in the banking industry.",
+            "Skill list Technical": [
+                "Python",
+                "Data Mining",
+                "Tableau"
+            ],
+            "Skill list non-technical": [
+                "Adaptability",
+                "Teamwork",
+                "Problem-solving"
+            ],
+            "Previous Companies": [
+                "Singtel",
+                "CapitaLand"
+            ],
+            "Communication and Engagement": {
+                "Oral Communication": 5,
+                "Written Communication": 8,
+                "Presentation and Facilitation": 7,
+                "Stakeholder Engagement": 4,
+                "Empathetic Communication": 9,
+                "TOTAL SCORE": 7
+            },
+            "Analytical and Problem-Solving Skills": {
+                "Oral Communication": 2,
+                "Written Communication": 8,
+                "Presentation and Facilitation": 2,
+                "Stakeholder Engagement": 4,
+                "Empathetic Communication": 9,
+                "TOTAL SCORE": 6
+            },
+            "Project and Product Management": {
+                "Oral Communication": 3,
+                "Written Communication": 6,
+                "Presentation and Facilitation": 10,
+                "Stakeholder Engagement": 10,
+                "Empathetic Communication": 4,
+                "TOTAL SCORE": 4
+            },
+            "Leadership and Team Management": {
+                "Oral Communication": 4,
+                "Written Communication": 5,
+                "Presentation and Facilitation": 5,
+                "Stakeholder Engagement": 2,
+                "Empathetic Communication": 5,
+                "TOTAL SCORE": 3
+            }
+        },
+        {
+            "Candidate Name": "Yan Goh",
+            "Introduction": "A highly skilled and versatile business analyst with a proven track record.",
+            "School attended": "Singapore Institute of Technology",
+            "Years of Experience": 11,
+            "Background History": "Has worked as a data analyst in the retail industry.",
+            "Skill list Technical": [
+                "Machine Learning",
+                "Excel",
+                "Power BI"
+            ],
+            "Skill list non-technical": [
+                "Adaptability",
+                "Communication",
+                "Problem-solving"
+            ],
+            "Previous Companies": [
+                "DBS Bank",
+                "Sea Limited"
+            ],
+            "Communication and Engagement": {
+                "Oral Communication": 1,
+                "Written Communication": 9,
+                "Presentation and Facilitation": 8,
+                "Stakeholder Engagement": 4,
+                "Empathetic Communication": 8,
+                "TOTAL SCORE": 2
+            },
+            "Analytical and Problem-Solving Skills": {
+                "Oral Communication": 8,
+                "Written Communication": 1,
+                "Presentation and Facilitation": 10,
+                "Stakeholder Engagement": 1,
+                "Empathetic Communication": 3,
+                "TOTAL SCORE": 4
+            },
+            "Project and Product Management": {
+                "Oral Communication": 4,
+                "Written Communication": 4,
+                "Presentation and Facilitation": 1,
+                "Stakeholder Engagement": 2,
+                "Empathetic Communication": 5,
+                "TOTAL SCORE": 7
+            },
+            "Leadership and Team Management": {
+                "Oral Communication": 7,
+                "Written Communication": 6,
+                "Presentation and Facilitation": 1,
+                "Stakeholder Engagement": 5,
+                "Empathetic Communication": 4,
+                "TOTAL SCORE": 6
+            }
+        },
+        {
+            "Candidate Name": "Min Lee",
+            "Introduction": "A highly skilled and versatile business analyst with a proven track record.",
+            "School attended": "Singapore Institute of Technology",
+            "Years of Experience": 6,
+            "Background History": "Has worked as a business intelligence analyst in the manufacturing industry.",
+            "Skill list Technical": [
+                "Excel",
+                "Power BI",
+                "Python"
+            ],
+            "Skill list non-technical": [
+                "Leadership",
+                "Creativity",
+                "Problem-solving"
+            ],
+            "Previous Companies": [
+                "CapitaLand",
+                "Flex"
+            ],
+            "Communication and Engagement": {
+                "Oral Communication": 6,
+                "Written Communication": 9,
+                "Presentation and Facilitation": 5,
+                "Stakeholder Engagement": 2,
                 "Empathetic Communication": 5,
                 "TOTAL SCORE": 10
             },
             "Analytical and Problem-Solving Skills": {
-                "Problem Identification, Analysis and Drawing Conclusions": 2,
-                "Research": 7,
-                "Creativity and Innovation": 9,
-                "Decision Making": 9,
-                "Business Analysis Skills": 5,
-                "Requirement Management": 8,
-                "Process Improvement": 1,
-                "TOTAL SCORE": 2
+                "Oral Communication": 1,
+                "Written Communication": 5,
+                "Presentation and Facilitation": 5,
+                "Stakeholder Engagement": 4,
+                "Empathetic Communication": 1,
+                "TOTAL SCORE": 8
             },
             "Project and Product Management": {
-                "Project Management Skills": 5,
-                "Risk Management": 8,
-                "Product Development": 6,
-                "Backlog Management": 2,
-                "Product Ownership": 5,
-                "Business Development": 6,
-                "TOTAL SCORE": 3
+                "Oral Communication": 1,
+                "Written Communication": 2,
+                "Presentation and Facilitation": 4,
+                "Stakeholder Engagement": 7,
+                "Empathetic Communication": 4,
+                "TOTAL SCORE": 9
             },
             "Leadership and Team Management": {
-                "Team Building": 1,
-                "Change Management": 10,
-                "Coaching / Mentoring": 10,
-                "Diversity Management": 4,
-                "Thought Leadership": 8,
-                "Team Management": 2,
-                "TOTAL SCORE": 2
+                "Oral Communication": 2,
+                "Written Communication": 4,
+                "Presentation and Facilitation": 8,
+                "Stakeholder Engagement": 3,
+                "Empathetic Communication": 9,
+                "TOTAL SCORE": 7
             }
-        }
-    },
-    {
-        "Name": "Singaporean Candidate 525",
-        "Introduction": "An enthusiastic and professional Business Analyst with 15 years of experience.",
-        "School Attended": "University of Singapore 5",
-        "Years of Experience": 10,
-        "Background History": "Extensive experience in technology sector.",
-        "Skill List Technical": [
-            "SQL",
-            "Python",
-            "Tableau"
-        ],
-        "Skill List Non-Technical": [
-            "Teamwork",
-            "Critical Thinking",
-            "Communication"
-        ],
-        "Previous Companies": [
-            "Singapore Company 42",
-            "Singapore Company 38"
-        ],
-        "Data": {
+        },
+        {
+            "Candidate Name": "Hui Wong",
+            "Introduction": "A highly skilled and versatile business analyst with a proven track record.",
+            "School attended": "Singapore University of Technology and Design",
+            "Years of Experience": 11,
+            "Background History": "Has worked as a data analyst in the transportation industry.",
+            "Skill list Technical": [
+                "Machine Learning",
+                "Data Mining",
+                "SQL"
+            ],
+            "Skill list non-technical": [
+                "Creativity",
+                "Adaptability",
+                "Communication"
+            ],
+            "Previous Companies": [
+                "Flex",
+                "CapitaLand"
+            ],
             "Communication and Engagement": {
-                "Oral Communication": 5,
-                "Written Communication": 8,
-                "Presentation and Facilitation": 5,
+                "Oral Communication": 9,
+                "Written Communication": 3,
+                "Presentation and Facilitation": 2,
                 "Stakeholder Engagement": 10,
-                "Empathetic Communication": 6,
-                "TOTAL SCORE": 4
+                "Empathetic Communication": 3,
+                "TOTAL SCORE": 10
             },
             "Analytical and Problem-Solving Skills": {
-                "Problem Identification, Analysis and Drawing Conclusions": 8,
-                "Research": 6,
-                "Creativity and Innovation": 1,
-                "Decision Making": 7,
-                "Business Analysis Skills": 9,
-                "Requirement Management": 3,
-                "Process Improvement": 8,
-                "TOTAL SCORE": 2
+                "Oral Communication": 8,
+                "Written Communication": 6,
+                "Presentation and Facilitation": 5,
+                "Stakeholder Engagement": 1,
+                "Empathetic Communication": 3,
+                "TOTAL SCORE": 9
             },
             "Project and Product Management": {
-                "Project Management Skills": 2,
-                "Risk Management": 10,
-                "Product Development": 4,
-                "Backlog Management": 8,
-                "Product Ownership": 2,
-                "Business Development": 1,
+                "Oral Communication": 9,
+                "Written Communication": 1,
+                "Presentation and Facilitation": 3,
+                "Stakeholder Engagement": 1,
+                "Empathetic Communication": 9,
+                "TOTAL SCORE": 8
+            },
+            "Leadership and Team Management": {
+                "Oral Communication": 6,
+                "Written Communication": 2,
+                "Presentation and Facilitation": 4,
+                "Stakeholder Engagement": 6,
+                "Empathetic Communication": 3,
+                "TOTAL SCORE": 1
+            }
+        },
+        {
+            "Candidate Name": "Hui Koh",
+            "Introduction": "A highly skilled and versatile business analyst with a proven track record.",
+            "School attended": "Singapore Management University",
+            "Years of Experience": 9,
+            "Background History": "Has worked as a risk analyst in the banking industry.",
+            "Skill list Technical": [
+                "Excel",
+                "Data Mining",
+                "R"
+            ],
+            "Skill list non-technical": [
+                "Teamwork",
+                "Leadership",
+                "Creativity"
+            ],
+            "Previous Companies": [
+                "Wilmar International",
+                "Flex"
+            ],
+            "Communication and Engagement": {
+                "Oral Communication": 5,
+                "Written Communication": 4,
+                "Presentation and Facilitation": 1,
+                "Stakeholder Engagement": 2,
+                "Empathetic Communication": 3,
+                "TOTAL SCORE": 9
+            },
+            "Analytical and Problem-Solving Skills": {
+                "Oral Communication": 7,
+                "Written Communication": 3,
+                "Presentation and Facilitation": 2,
+                "Stakeholder Engagement": 5,
+                "Empathetic Communication": 9,
+                "TOTAL SCORE": 9
+            },
+            "Project and Product Management": {
+                "Oral Communication": 2,
+                "Written Communication": 4,
+                "Presentation and Facilitation": 5,
+                "Stakeholder Engagement": 5,
+                "Empathetic Communication": 1,
+                "TOTAL SCORE": 2
+            },
+            "Leadership and Team Management": {
+                "Oral Communication": 3,
+                "Written Communication": 8,
+                "Presentation and Facilitation": 7,
+                "Stakeholder Engagement": 10,
+                "Empathetic Communication": 3,
+                "TOTAL SCORE": 2
+            }
+        },
+        {
+            "Candidate Name": "Shan Tan",
+            "Introduction": "A highly skilled and versatile business analyst with a proven track record.",
+            "School attended": "Nanyang Technological University",
+            "Years of Experience": 3,
+            "Background History": "Has worked as a operations analyst in the transportation industry.",
+            "Skill list Technical": [
+                "Tableau",
+                "R",
+                "Machine Learning"
+            ],
+            "Skill list non-technical": [
+                "Creativity",
+                "Problem-solving",
+                "Teamwork"
+            ],
+            "Previous Companies": [
+                "DBS Bank",
+                "Wilmar International"
+            ],
+            "Communication and Engagement": {
+                "Oral Communication": 6,
+                "Written Communication": 3,
+                "Presentation and Facilitation": 8,
+                "Stakeholder Engagement": 10,
+                "Empathetic Communication": 9,
+                "TOTAL SCORE": 10
+            },
+            "Analytical and Problem-Solving Skills": {
+                "Oral Communication": 10,
+                "Written Communication": 2,
+                "Presentation and Facilitation": 5,
+                "Stakeholder Engagement": 3,
+                "Empathetic Communication": 10,
+                "TOTAL SCORE": 10
+            },
+            "Project and Product Management": {
+                "Oral Communication": 2,
+                "Written Communication": 4,
+                "Presentation and Facilitation": 7,
+                "Stakeholder Engagement": 7,
+                "Empathetic Communication": 6,
+                "TOTAL SCORE": 5
+            },
+            "Leadership and Team Management": {
+                "Oral Communication": 5,
+                "Written Communication": 9,
+                "Presentation and Facilitation": 4,
+                "Stakeholder Engagement": 7,
+                "Empathetic Communication": 4,
+                "TOTAL SCORE": 2
+            }
+        },
+        {
+            "Candidate Name": "Wei Ng",
+            "Introduction": "A highly skilled and versatile business analyst with a proven track record.",
+            "School attended": "James Cook University Singapore",
+            "Years of Experience": 11,
+            "Background History": "Has worked as a market research analyst in the retail industry.",
+            "Skill list Technical": [
+                "Machine Learning",
+                "SQL",
+                "Excel"
+            ],
+            "Skill list non-technical": [
+                "Creativity",
+                "Communication",
+                "Teamwork"
+            ],
+            "Previous Companies": [
+                "DBS Bank",
+                "Flex"
+            ],
+            "Communication and Engagement": {
+                "Oral Communication": 8,
+                "Written Communication": 6,
+                "Presentation and Facilitation": 3,
+                "Stakeholder Engagement": 7,
+                "Empathetic Communication": 7,
+                "TOTAL SCORE": 9
+            },
+            "Analytical and Problem-Solving Skills": {
+                "Oral Communication": 6,
+                "Written Communication": 2,
+                "Presentation and Facilitation": 3,
+                "Stakeholder Engagement": 9,
+                "Empathetic Communication": 2,
+                "TOTAL SCORE": 1
+            },
+            "Project and Product Management": {
+                "Oral Communication": 1,
+                "Written Communication": 8,
+                "Presentation and Facilitation": 3,
+                "Stakeholder Engagement": 8,
+                "Empathetic Communication": 4,
+                "TOTAL SCORE": 5
+            },
+            "Leadership and Team Management": {
+                "Oral Communication": 2,
+                "Written Communication": 9,
+                "Presentation and Facilitation": 9,
+                "Stakeholder Engagement": 6,
+                "Empathetic Communication": 9,
+                "TOTAL SCORE": 6
+            }
+        },
+        {
+            "Candidate Name": "Feng Wong",
+            "Introduction": "A highly skilled and versatile business analyst with a proven track record.",
+            "School attended": "Singapore Institute of Technology",
+            "Years of Experience": 5,
+            "Background History": "Has worked as a data analyst in the banking industry.",
+            "Skill list Technical": [
+                "Python",
+                "Excel",
+                "Power BI"
+            ],
+            "Skill list non-technical": [
+                "Communication",
+                "Adaptability",
+                "Problem-solving"
+            ],
+            "Previous Companies": [
+                "Singtel",
+                "Sea Limited"
+            ],
+            "Communication and Engagement": {
+                "Oral Communication": 9,
+                "Written Communication": 7,
+                "Presentation and Facilitation": 3,
+                "Stakeholder Engagement": 2,
+                "Empathetic Communication": 7,
+                "TOTAL SCORE": 3
+            },
+            "Analytical and Problem-Solving Skills": {
+                "Oral Communication": 8,
+                "Written Communication": 5,
+                "Presentation and Facilitation": 8,
+                "Stakeholder Engagement": 2,
+                "Empathetic Communication": 9,
+                "TOTAL SCORE": 4
+            },
+            "Project and Product Management": {
+                "Oral Communication": 9,
+                "Written Communication": 10,
+                "Presentation and Facilitation": 1,
+                "Stakeholder Engagement": 6,
+                "Empathetic Communication": 7,
                 "TOTAL SCORE": 7
             },
             "Leadership and Team Management": {
-                "Team Building": 7,
-                "Change Management": 2,
-                "Coaching / Mentoring": 10,
-                "Diversity Management": 9,
-                "Thought Leadership": 5,
-                "Team Management": 3,
-                "TOTAL SCORE": 4
+                "Oral Communication": 10,
+                "Written Communication": 5,
+                "Presentation and Facilitation": 2,
+                "Stakeholder Engagement": 3,
+                "Empathetic Communication": 3,
+                "TOTAL SCORE": 7
             }
-        }
-    },
-    {
-        "Name": "Singaporean Candidate 287",
-        "Introduction": "An enthusiastic and professional Business Analyst with 2 years of experience.",
-        "School Attended": "University of Singapore 4",
-        "Years of Experience": 7,
-        "Background History": "Extensive experience in technology sector.",
-        "Skill List Technical": [
-            "R",
-            "Excel",
-            "Excel"
-        ],
-        "Skill List Non-Technical": [
-            "Leadership",
-            "Communication",
-            "Time Management"
-        ],
-        "Previous Companies": [
-            "Singapore Company 75",
-            "Singapore Company 82"
-        ],
-        "Data": {
+        },
+        {
+            "Candidate Name": "Jia Ong",
+            "Introduction": "A highly skilled and versatile business analyst with a proven track record.",
+            "School attended": "Singapore University of Technology and Design",
+            "Years of Experience": 4,
+            "Background History": "Has worked as a financial analyst in the technology industry.",
+            "Skill list Technical": [
+                "Power BI",
+                "Machine Learning",
+                "Excel"
+            ],
+            "Skill list non-technical": [
+                "Adaptability",
+                "Communication",
+                "Creativity"
+            ],
+            "Previous Companies": [
+                "Wilmar International",
+                "Sea Limited"
+            ],
             "Communication and Engagement": {
-                "Oral Communication": 2,
+                "Oral Communication": 7,
                 "Written Communication": 8,
-                "Presentation and Facilitation": 1,
-                "Stakeholder Engagement": 8,
-                "Empathetic Communication": 10,
-                "TOTAL SCORE": 8
+                "Presentation and Facilitation": 9,
+                "Stakeholder Engagement": 9,
+                "Empathetic Communication": 4,
+                "TOTAL SCORE": 6
             },
             "Analytical and Problem-Solving Skills": {
-                "Problem Identification, Analysis and Drawing Conclusions": 7,
-                "Research": 10,
-                "Creativity and Innovation": 2,
-                "Decision Making": 7,
-                "Business Analysis Skills": 5,
-                "Requirement Management": 6,
-                "Process Improvement": 2,
+                "Oral Communication": 6,
+                "Written Communication": 9,
+                "Presentation and Facilitation": 4,
+                "Stakeholder Engagement": 4,
+                "Empathetic Communication": 9,
                 "TOTAL SCORE": 8
             },
             "Project and Product Management": {
-                "Project Management Skills": 8,
-                "Risk Management": 5,
-                "Product Development": 4,
-                "Backlog Management": 3,
-                "Product Ownership": 6,
-                "Business Development": 8,
-                "TOTAL SCORE": 1
+                "Oral Communication": 3,
+                "Written Communication": 2,
+                "Presentation and Facilitation": 8,
+                "Stakeholder Engagement": 9,
+                "Empathetic Communication": 10,
+                "TOTAL SCORE": 6
             },
             "Leadership and Team Management": {
-                "Team Building": 6,
-                "Change Management": 10,
-                "Coaching / Mentoring": 9,
-                "Diversity Management": 6,
-                "Thought Leadership": 3,
-                "Team Management": 8,
-                "TOTAL SCORE": 1
+                "Oral Communication": 6,
+                "Written Communication": 8,
+                "Presentation and Facilitation": 2,
+                "Stakeholder Engagement": 4,
+                "Empathetic Communication": 10,
+                "TOTAL SCORE": 6
             }
         }
-    }
-]
+    ]
+}
